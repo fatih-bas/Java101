@@ -1,5 +1,5 @@
 # Patika.dev-repo-15
-### Taksimetre Programı
+### Java101 - Taksimetre Programı
 
 ```
 import java.util.Scanner;
