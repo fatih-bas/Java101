@@ -1,5 +1,5 @@
 # Patika.dev-repo-15
-### Java101 - Dik Üçgende alan Bulan Program
+### Java101 - Dik Üçgende Alan Bulan Program
 
 ```
 import java.util.Scanner;
