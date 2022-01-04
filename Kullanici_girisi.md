@@ -1,6 +1,5 @@
 ## Patika.dev - repo-15 
-### Java101 - Koşullu İfadeler ve Kod Blokları Bölümü, Bölüm Sonu Uygulaması  
-### Kullanıcı Girişi 
+### Java101 - Kullanıcı Girişi Uygulaması
 
 ```
 import java.util.Scanner;
