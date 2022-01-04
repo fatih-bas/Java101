@@ -1,4 +1,5 @@
-### Patika.dev - Java101 - Koşullu İfadeler ve Kod Blokları Bölümü, Bölüm Sonu Uygulaması  
+## Patika.dev - repo-15 
+### Java101 - Koşullu İfadeler ve Kod Blokları Bölümü, Bölüm Sonu Uygulaması  
 ### Kullanıcı Girişi 
 
 ```
