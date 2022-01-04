@@ -1,6 +1,6 @@
 # Patika.dev-repo-15
 
-### Java101 - Vücut Kitle İndeksi Hesaplayan Program
+### Java101 - Vücut Kitle İndeksi Hesaplayan Uygulama
 
 ```
 import java.util.Scanner;
