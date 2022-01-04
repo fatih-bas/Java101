@@ -1,12 +1,16 @@
 # Patika.dev-repo-15
 ### Java101 - Temel Kavramlar ve Değişkenler Bölümü, Bölüm Sonu Uygulamaları
 
-- [Not Ortalaması Hesaplayan Program](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Not_ortalamasi_hesaplama.md)
-- [KDV Tutarı Hesaplayan Program](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/KDV_tutari_hesaplama.md)
-- [Dik Üçgende Alan Bulan Program](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dik_ucgende_alan_hesaplama.md)
-- [Taksimetre Programı](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/taksimetre_programi.md)
+- [Not Ortalaması Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Not_ortalamasi_hesaplama.md)
+- [KDV Tutarı Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/KDV_tutari_hesaplama.md)
+- [Dik Üçgende Alan Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dik_ucgende_alan_hesaplama.md)
+- [Taksimetre Uygulaması](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/taksimetre_programi.md)
+- [Vucüt Kitle Index'i Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dik_ucgende_alan_hesaplama.md)
+- [Daire Diliminin Alanını Hesaplayan Ugulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Daire_diliminin_alani.md)
 
 ### Java101 - Koşullu İfadeler ve Kod Blokları Bölümü, Bölüm Sonu Uygulamaları 
 - [Basit Hesap Makinası](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Hesap_makinasi.md)
 - [Kullanıcı Girişi](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Kullanici_girisi.md)
+- [Sınıf Geçme Durumu Gösteren Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Sinif_gecme_durumu.md)
+
 
