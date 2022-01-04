@@ -14,7 +14,7 @@ public class Main {
         heat = input.nextInt();
 
         if (heat < 5) {
-            System.out.print("Kayak yapabilirsin.");
+            System.out.println("Kayak yapabilirsin.");
         } else if (heat >= 5 && heat <= 15) {
             System.out.println("Sinemaya gidebilirsin");
         } else if (heat >= 15 && heat <= 25){
