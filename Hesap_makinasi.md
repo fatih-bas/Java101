@@ -1,4 +1,4 @@
-# Patika.dev-repo-17
+# Patika.dev-repo-15
 ### Patika.dev - Java101 - Koşullu İfadeler ve Kod Blokları Bölümü,
 ###  Bölüm Sonu Uygulaması - Basit Hesap Makinası 
 
