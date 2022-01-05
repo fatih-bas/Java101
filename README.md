@@ -14,5 +14,5 @@
 - [Sınıf Geçme Durumu Gösteren Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Sinif_gecme_durumu.md)
 - [Hava Sıcaklık Durumuna Göre Etkinlik Öneren Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/Etkinlik%20_Onerme.md)
 - [Girilen Üç Sayıyı Küçükten Büyüğe Sıralayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/girilen_sayilari_siralama.md)
-
+- [Burç Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/horoscope.md)
 
