@@ -17,4 +17,5 @@
 - [Burç Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/horoscope.md)
 - [Uçak Bileti Fiyatı Hesaplama Uygulaması](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/ucak_bileti_fiyat_hesaplama.md)
 - [Çin Zodyağı Hesaplama Uygulaması](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/cin_zodyagi.md)
+- [Artık Yıl Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/artik_yil_hesaplama.md)
 
