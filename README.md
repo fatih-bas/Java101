@@ -19,3 +19,5 @@
 - [Çin Zodyağı Hesaplama Uygulaması](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/cin_zodyagi.md)
 - [Artık Yıl Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/artik_yil_hesaplama.md)
 
+### Java101 - Döngüler Bölümü, Bölüm Sonu Uygulamaları
+- [ 3' e ve 4' e Tam Bölünen Sayıların Ortalamasını Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/uce_ve_dorde_tam_bolunen_sayilarin_ortalamasi.md)
