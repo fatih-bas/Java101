@@ -21,3 +21,4 @@
 
 ### Java101 - Döngüler Bölümü, Bölüm Sonu Uygulamaları
 - [ 3' e ve 4' e Tam Bölünen Sayıların Ortalamasını Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/uce_ve_dorde_tam_bolunen_sayilarin_ortalamasi.md)
+- [Tek Sayı Girilene Kadar Çift ve 4'ün Katları Olan Sayıları Toplayıp Ekrana Yazan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dordun_kati_sayilarin_toplami.md)
