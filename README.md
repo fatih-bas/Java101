@@ -24,3 +24,4 @@
 - [Tek Sayı Girilene Kadar Çift ve 4'ün Katları Olan Sayıları Toplayıp Ekrana Yazan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dordun_kati_sayilarin_toplami.md)
 - [Pozitif Girilen Sayıya Kadar Olan 4 ve 5'in Kuvvetlerini Ekrana Yazdıran Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dort_ve_besin_kuvvetleri.md)
 - [Kombinasyon Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/kombinasyon_hesaplama.md)
+- [For Döngüsü İle Kullanıcının Girdiği Değerlerden Üslü Sayı Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/uslu_sayi_hesaplama.md)
