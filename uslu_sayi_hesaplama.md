@@ -1,6 +1,6 @@
 # Patika.dev-repo-15
 
-### Java101 - For Döngüsü İle Kullanıcının Girdiği Değerlerden Üslü Sayı Hesaplayan Program
+### Java101 - For Döngüsü İle Kullanıcının Girdiği Değerlerden Üslü Sayı Hesaplayan Uygulama
 
 ```
 import java.util.Scanner;
