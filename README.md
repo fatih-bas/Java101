@@ -25,3 +25,5 @@
 - [Pozitif Girilen Sayıya Kadar Olan 4 ve 5'in Kuvvetlerini Ekrana Yazdıran Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/dort_ve_besin_kuvvetleri.md)
 - [Kombinasyon Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/kombinasyon_hesaplama.md)
 - [For Döngüsü İle Kullanıcının Girdiği Değerlerden Üslü Sayı Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/uslu_sayi_hesaplama.md)
+- [Kullanıcıdan Aldığı Sayının Basamak Değerleri Toplamını Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/sayinin_basamak_degerleri_toplami.md)
+- [Armstrong Sayıları Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/armstrong_number.md)
