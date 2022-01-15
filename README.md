@@ -29,3 +29,4 @@
 - [Armstrong Sayıları Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/armstrong_number.md)
 - [Döngüler Kullanarak Yıldızlar ile Elmas Çizen Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/draw_diamond_with_asterix.md)
 - [ATM Uygulaması](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/ATM_projesi.mda)
+- [While Döngüsü ile Ebob - Ekok Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/ebob_ekok_hesplama.md)
