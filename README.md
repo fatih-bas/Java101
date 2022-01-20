@@ -33,3 +33,4 @@
 - [Girilen Sayılardan Min ve Max Değerlerini Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/min_max.md)
 - [Mükemmel Sayı Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/mukemmer_sayi.md)
 - [Döngüler ile Yıldızlar(*) Kullanarak Ters Üçgen Çizen Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/ters_ucgen.md)
+- [1 ile 100 Arasındaki Asal Sayıları Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/find_prime.md)
