@@ -31,3 +31,4 @@
 - [ATM Uygulaması](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/ATM_projesi.md)
 - [While Döngüsü ile Ebob - Ekok Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/ebob_ekok_hesplama.md)
 - [Girilen Sayılardan Min ve Max Değerlerini Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/min_max.md)
+- [Mükemmel Sayı Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/mukemmer_sayi.md)
