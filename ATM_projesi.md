@@ -1,5 +1,5 @@
 # Patika.dev-repo-15
-### Java101 ATM Uygulaması
+### Java101 - ATM Uygulaması
 
 ```
 import java.util.Scanner;
