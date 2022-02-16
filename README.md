@@ -38,4 +38,5 @@
 ### `Java101 - Metodlar Bölümü, Bölüm Sonu Uygulamaları`
 - [Palindrom Sayı Bulan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/palindrom.md)
 - [Calculator](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/calculator.md)
-- [Recursive Metotlar ile Üslü Sayı Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/recursive_uslu_say%C4%B1_hesaplama.md)
+- [Recursive Metod ile Bir Sayının Üssünü Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/us_alma.md)
+- [Recursive Metod ile Bir Sayının Asal Olup Olmadığını Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/prime_with_recursive_method.md)
