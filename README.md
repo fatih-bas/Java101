@@ -41,3 +41,6 @@
 - [Recursive Metod ile Bir Sayının Üssünü Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/us_alma.md)
 - [Recursive Metod ile Bir Sayının Asal Olup Olmadığını Hesaplayan Uygulama](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/prime_with_recursive_method.md)
 - [Recursive - Desene Göre Metod Oluşturma](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/random_number_pattern.md)
+
+### `Java101 - Sınıflar Modülü, Bölüm Sonu Uygulamaları`
+- [Öğrenci Not Sistemi](https://github.com/fatih-bas/Patika.dev-repo-15/tree/main/Student%20Information%20Sytem)
