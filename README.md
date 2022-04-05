@@ -43,4 +43,5 @@
 - [Recursive - Desene Göre Metod Oluşturma](https://github.com/fatih-bas/Patika.dev-repo-15/blob/main/random_number_pattern.md)
 
 ### `Java101 - Sınıflar Modülü, Bölüm Sonu Uygulamaları`
-- [Öğrenci Not Sistemi](https://github.com/fatih-bas/Patika.dev-repo-15/tree/main/Student%20Information%20Sytem)
+- [Student Information System](https://github.com/fatih-bas/Patika.dev-repo-15/tree/main/Student%20Information%20Sytem)
+- [Box Match](https://github.com/fatih-bas/Patika.dev-repo-15/tree/main/Box%20Match)
